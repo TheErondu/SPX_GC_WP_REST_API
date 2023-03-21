@@ -5,5 +5,5 @@ Template is written in Vanilla Javascript.
 
 See Demo
 
-<iframe src="http://129.205.123.122:7656/renderer" width="50%" height="30%">
+<iframe src="https://your-github-username.github.io/your-repository-name/your-html-file-name.html" width="100%" height="300px">
 </iframe>
