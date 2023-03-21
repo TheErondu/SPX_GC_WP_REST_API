@@ -2,4 +2,8 @@
 instance available to test at http://129.205.123.122:7656/gc/TICKER/Wordpress%20post%20as%20ticker and the 
 This is suitable for Livestreams and broadcasts with software like OBS, vmix and anywhere you can embed a html page just past this in the url input http://129.205.123.122:7656/renderer/.
 Template is written in Vanilla Javascript.
-Clone 
+
+See Demo
+
+<iframe src="http://129.205.123.122:7656/renderer" width="50%" height="30%">
+</iframe>
