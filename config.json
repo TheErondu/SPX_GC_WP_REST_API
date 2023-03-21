@@ -1,0 +1,33 @@
+{
+  "general": {
+    "username": "admin",
+    "password": "87455a28516f043426ec40bf747d59c3",
+    "hostname": "",
+    "greeting": "",
+    "langfile": "english.json",
+    "loglevel": "info",
+    "launchchrome": false,
+    "resolution": "HD",
+    "preview": "selected",
+    "renderer": "normal",
+    "logfolder": "/home/brave_multi/gfx/LOG/",
+    "dataroot": "/home/brave_multi/gfx/DATAROOT/",
+    "templatesource": "spx-ip-address",
+    "port": "5656",
+    "disableConfigUI": false,
+    "recents": [
+      "TICKER/Wordpress post as ticker",
+      "HelloWorld-project/My First Rundown"
+    ]
+  },
+  "casparcg": {
+    "servers": []
+  },
+  "globalExtras": {
+    "customscript": "/ExtraFunctions/demoFunctions.js",
+    "CustomControls": []
+  },
+  "warning": "Modifications done in the SPX will overwrite this file.",
+  "smartpx": "(c) 2020-2022 Softpix (https://spx.graphics)",
+  "updated": "2023-03-21T21:06:22.974Z"
+}

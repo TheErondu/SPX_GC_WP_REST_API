@@ -1,0 +1,50 @@
+{
+  "templates": [
+    {
+      "DataFields": [
+        {
+          "field": "comment",
+          "ftype": "textfield",
+          "title": "Nickname of this item on the rundown",
+          "value": "[ Item nickname ]"
+        },
+        {
+          "ftype": "instruction",
+          "value": "Ticker with WordPress API posts as the data source. Please change WordPress url to the url of the wordpress site e.g https://mywordpresssite.com"
+        },
+        {
+          "field": "f0",
+          "ftype": "textfield",
+          "title": "Wordpress URL",
+          "value": "https://wf.newscentral.ng/ticker"
+        },
+        {
+          "field": "f1",
+          "ftype": "textfield",
+          "title": "maximum Ticker items per section ",
+          "value": "5"
+        },
+        {
+          "field": "f99",
+          "ftype": "filelist",
+          "title": "Visual theme",
+          "assetfolder": "./themes/",
+          "extension": "css",
+          "value": "./themes/default.css"
+        }
+      ],
+      "relpath": "/softpix/Template_Pack_1.1/TICKER_WORDPRESS_POSTS.html",
+      "description": "News ticker from WordPress API",
+      "playserver": "-",
+      "playchannel": "1",
+      "playlayer": "3",
+      "dataformat": "json",
+      "webplayout": "3",
+      "out": "manual",
+      "uicolor": "7"
+    }
+  ],
+  "warning": "Modifications done in the SPX will overwrite this file.",
+  "smartpx": "(c) 2020-2022 Softpix (https://spx.graphics)",
+  "updated": "2023-03-21T21:06:14.015Z"
+}

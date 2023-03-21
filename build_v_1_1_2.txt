@@ -1,0 +1,4 @@
+SPX Graphics 
+Copyright 2020-2022 Softpix 
+Version 1_1_2 
+Built datetime: 20.06.2022:12.56.31,98 
