@@ -3,7 +3,4 @@ instance available to test at http://129.205.123.122:7656/gc/TICKER/Wordpress%20
 This is suitable for Livestreams and broadcasts with software like OBS, vmix and anywhere you can embed a html page just past this in the url input http://129.205.123.122:7656/renderer/.
 Template is written in Vanilla Javascript.
 
-See Demo
 
-<iframe src="https://your-github-username.github.io/your-repository-name/your-html-file-name.html" width="100%" height="300px">
-</iframe>
